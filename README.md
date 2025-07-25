@@ -1,4 +1,4 @@
-## Análisis de audiencia en Twitch
+## Análisis de la plataforma Twitch
 
 📘 Este proyecto fue realizado durante un curso de análisis de datos. Puede contener errores o decisiones no óptimas, ya que fue parte de un proceso de aprendizaje.
 
