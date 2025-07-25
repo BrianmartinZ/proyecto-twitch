@@ -4,7 +4,7 @@
 
 ### 📄 Descripción
 
-En el siguiente trabajo, analizaremos una de las plataformas más populares de la actualidad en cuanto a la transmisión en vivo de contenido digital. Desde su lanzamiento en 2008, hasta la actualidad, la plataforma de Twitch, perteneciente a Amazon, ha experimentado un gran crecimiento de espectadores, que ha revolucionado la forma en que se consumen los contenidos de entretenimiento, un campo en donde también tiene como competencia directa a la famosa plataforma de YouTube. 
+En el siguiente trabajo, analizaremos una de las plataformas más populares de la actualidad en cuanto a la transmisión en vivo de contenido digital. Desde su lanzamiento en 2008, hasta la actualidad, la plataforma de Twitch, perteneciente a Amazon, ha experimentado un gran crecimiento de espectadores, que ha revolucionado la forma en que se consumen los contenidos de entretenimiento hoy en día, un campo en donde también tiene como competencia directa a la famosa plataforma de YouTube. 
 
 ### 🎯 Objetivo
 
