@@ -8,7 +8,7 @@ En el siguiente trabajo, analizaremos una de las plataformas más populares de l
 
 ### 🎯 Objetivo
 
-Analizaremos detalladamente el comportamiento de sus espectadores y el contenido que suelen retransmitir con mayor frecuencia, como también la duración de su actividad dentro de la plataforma.  Esta información puede ser muy valiosa para los desarrolladores de videojuegos, aportándoles una perspectiva de ciertas tendencias predominantes en el género, como también para las estrategias de marketing y retención dentro de la página web. Por último, se realizará una sugerencia de las áreas donde podrían ser más rentables de invertir basándonos en los resultados obtenidos.
+Analizaremos detalladamente el comportamiento de los streamers y sus espectadores, prestando especial atención al tipo de contenido que retransmiten con mayor frecuencia, así como a la duración de su actividad dentro de la plataforma. Esta información puede resultar muy valiosa para los desarrolladores de videojuegos, ya que les aporta una perspectiva sobre las tendencias predominantes en determinados géneros, así como también para el diseño de estrategias de marketing y retención dentro de la página web. Por último, se propondrán algunas líneas futuras de investigación en aquellas áreas donde sería posible profundizar el análisis para obtener resultados más precisos.
 
 ## 📑 Contenido del documento
 
@@ -65,8 +65,8 @@ Analizaremos detalladamente el comportamiento de sus espectadores y el contenido
 #### 🎮 Categorías:
 
 - Hay un total de 350 categorías preferidas por los streamers.
-- La categoría "Just Chatting" es la que mayor canales dedicados tiene.
-- La categoría "Special Events" alcanzó el mayor pico vistas en simultáneo.
+- La categoría "Just Chatting" se posiciona como la categoría más popular entre los streamers.
+- La categoría "Special Events" alcanzó el mayor pico vistas en simultáneo. 
 - Entre 2016 y 2023, dos categorías se destacaron por acumular una gran cantidad de horas vistas: League of Legends y Just Chatting, siendo esta última claramente dominante en los últimos años.
   
 #### 🏆 Canales:
