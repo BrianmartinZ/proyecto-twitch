@@ -38,7 +38,7 @@ Estudiaremos en detalle el comportamiento de los streamers y sus espectadores, p
 
 <br>
 
-*Nota: Durante el desarrollo del proyecto, algunos datasets fueron modificados, combinados y limpiados para facilitar su posterior análisis.*
+*Nota: Durante el desarrollo del proyecto, algunos datasets fueron modificados, combinados y limpiados para facilitar su análisis posterior.*
 
 ---
 
@@ -71,11 +71,12 @@ Estudiaremos en detalle el comportamiento de los streamers y sus espectadores, p
   
 #### 🏆 Canales:
 
-- El canal de *Ninja* es el que tiene mayor número seguidores.
-- El canal de *Auronplay* es el que tiene mayor número de seguidores ganados.
-- El canal de *Blizzard* obtuvo el mayor promedio de vistas.
-- El canal de *RiffTrax* es el que tiene mayores minutos transmitidos.
-- El canal de *xQcOW* es el canal con mayores vistas en total.
+- **Ninja** es el canal con mayor número de seguidores.
+- **Auronplay** es el que ha ganado más seguidores.
+- **Playstation** obtuvo el mayor pico de vistas.
+- **Blizzard** obtuvo el mayor promedio de vistas.
+- **RiffTrax** es el canal con más minutos transmitidos.
+- **xQcOW** es el canal con más minutos visualizados.
 
 ---
 
